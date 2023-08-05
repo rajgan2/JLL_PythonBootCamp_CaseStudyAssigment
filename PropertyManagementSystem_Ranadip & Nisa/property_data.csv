@@ -1,0 +1,4 @@
+property_id,address,num_bedrooms,num_bathrooms,monthly_rent,status
+P1000, Piedmont Rd NE Georgia,2,3,12000,Occupied
+P1001,Southfront Rd Livermore	California,2,2,20000,Occupied
+P1002,"Whitefield, Bangalore",2,3,35000,Occupied
