@@ -1,0 +1,4 @@
+property_id,address,num_bedrooms,num_bathrooms,monthly_rent,status
+P1000,One Caesars Palace Dr.,5,7,120000,Occupied
+P1001,City Hall - 495 S. Main Street,8,6,200000,Occupied
+P1002,6720 Via Austi Parkway Suite 450,7,6,350000,Occupied
