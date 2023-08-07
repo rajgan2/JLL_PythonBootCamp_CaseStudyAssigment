@@ -1,0 +1,6 @@
+property_id,address,No_of_bedrooms,Rent,status
+PROPERTY1,Ramamurthy Nagar,2,10000,Occupied
+PROPERTY2,Ramamurthy Nagar,3,20000,Occupied
+PROPERTY3,Ramamurthy Nagar,4,30000,Occupied
+PROPERTY4,Ramamurthy Nagar,5,,Vacant
+PROPERTY5,Ramamurthy Nagar,6,50000,Occupied

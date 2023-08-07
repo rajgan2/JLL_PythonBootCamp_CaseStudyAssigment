@@ -1,0 +1,6 @@
+tenant_id,property_id,tenant_name,contact_phone,email
+TENANT1,PROPERTY1,tom,1234567890,gamil@gmail.com
+TENANT2,PROPERTY2,rose,1234567890,gamil@gmail.com
+TENANT3,PROPERTY3,lilly,1234567890,gamil@gmail.com
+TENANT4,PROPERTY5,tom,1234567890,gamil@gmail.com
+TENANT5,PROPERTY6,rose,1234567890,gamil@gmail.com
